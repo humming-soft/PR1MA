@@ -1,0 +1,106 @@
+
+
+/*animation*/
+
+div.infographic_chart {
+	/*-webkit-animation-timing-function: linear;*/
+	/*-webkit-animation-timing-function: ease;*/
+	/*-webkit-animation-timing-function: ease-in;*/
+	/*-webkit-animation-timing-function: ease-out;*/
+	-webkit-animation-timing-function: ease-in-out;
+    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 2s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-delay: 0s; /* Safari 4.0 - 8.0 */
+    animation-name: example;
+    animation-duration: 2s;
+    animation-delay: 0s;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes example {
+    0%   {background:rgba(255,255,255,.0);top:13%;right:0%;}
+    100%  {background:rgba(255,255,255,.2);top:13%;right:4%;}
+}
+
+/* Standard syntax */
+@keyframes example {
+    0%   {background:rgba(255,255,255,.0);top:13%;right:0%;}
+    100%  {background:rgba(255,255,255,.2);top:13%;right:4%;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

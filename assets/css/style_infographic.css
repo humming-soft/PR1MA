@@ -1,0 +1,799 @@
+
+/*
+
+map
+
+
+*/
+
+/*______________________________________
+generic*/
+g.active_region path {
+	fill:rgba(0,0,0,.3)!important;
+	stroke:rgba(0,255,255,.5)!important;
+}
+
+g.inactive_region path {
+	fill:rgba(255,255,200,.1)!important;
+	stroke:rgba(255,255,255,.2)!important;
+}
+
+/*______________________________________
+specific*/
+
+path#PLS,
+g#KDH path,
+g#PNG path,
+path#MLK,
+path#JHR,
+path#NSN,
+path#SGR,
+path#PRK,
+path#KTN,
+path#TRG,
+path#PHG,
+path#LBN,
+g#SBH path,
+path#SRW,
+path#KUL,
+path#PJY {
+	fill:rgba(0,0,0,.3)!important;
+	stroke:rgba(0,255,255,.5)!important;
+}
+
+#SEA path {
+	fill:rgba(255,255,200,.1)!important;
+	stroke:rgba(255,255,255,.5)!important;
+}
+
+
+/*
+
+region
+
+
+*/
+
+/*______________________________________
+generic*/
+
+g.active_region .district_border,
+g.inactive_region .district_border {
+	fill:none!important;
+	stroke-width:1px!important;
+	stroke:rgba(255,255,255,.5)!important;
+}
+
+g.active_region .map_color.map_color_end,
+g.inactive_region .map_color.map_color_end{
+	fill:rgba(100,255,255,.65)!important;
+	stroke-width:5px!important;
+	stroke:rgba(100,255,255,.65)!important;
+}
+	g.active_region .map_color.map_color_end:hover,
+	g.inactive_region .map_color.map_color_end:hover{
+		fill:rgba(100,255,255,.65)!important;
+		stroke-width:5px!important;
+		stroke:rgba(100,255,255,.65)!important;
+		cursor:default;
+	}
+
+g.map_color path {
+	stroke-width:2px!important;
+	stroke:rgba(255,255,255,.5)!important;
+}
+g.map_color_none path {
+	fill:none!important;
+}
+g.map_color_0 path {
+	fill:rgba(255,255,255,.25)!important;
+}
+g.map_color_1 path {
+	fill:rgba(0,255,255,.3)!important;
+}
+g.map_color_2 path {
+	fill:rgba(255,0,200,.3)!important;
+}
+g.map_color_3 path {
+	fill:rgba(255,150,0,.3)!important;
+}
+g.map_color_4 path {
+	fill:rgba(0,100,255,.3)!important;
+}
+g.map_color_5 path {
+	fill:rgba(0,100,255,.3)!important;
+}
+g.map_color_6 path {
+	fill:rgba(0,255,255,.3)!important;
+}
+	g.map_color path:hover{
+		stroke-width:5px!important;
+		stroke:rgba(255,255,255,1)!important;
+	}
+	g.map_color.map_color_none path:hover,
+	g.map_color.map_color_0 path:hover{
+		stroke-width:5px!important;
+		stroke:rgba(255,255,255,1)!important;
+		cursor:default;
+	}
+	g.map_color_1 path:hover {
+		fill:rgba(0,255,255,.5)!important;
+		cursor: pointer;
+	}
+	g.map_color_2 path:hover {
+		fill:rgba(255,0,200,.5)!important;
+		cursor: pointer;
+	}
+	g.map_color_3 path:hover {
+		fill:rgba(255,150,0,.5)!important;
+		cursor: pointer;
+	}
+	g.map_color_4 path:hover {
+		fill:rgba(0,100,255,.5)!important;
+		cursor: pointer;
+	}
+	g.map_color_5 path:hover {
+		fill:rgba(0,100,255,.5)!important;
+		cursor: pointer;
+	}
+	g.map_color_6 path:hover {
+		fill:rgba(0,255,255,.5)!important;
+		cursor: pointer;
+	}
+
+g.active_region path.map_color {
+	stroke-width:2px!important;
+	stroke:rgba(255,255,255,.5)!important;
+}
+g.active_region path.map_color_none {
+	stroke-width:1px!important;
+	stroke:rgba(255,255,255,.25)!important;
+	fill:none!important;
+}
+g.active_region path.map_color_0 {
+	stroke-width:1px!important;
+	stroke:rgba(255,255,255,.25)!important;
+	fill:rgba(255,255,255,.25)!important;
+}
+g.active_region path.map_color_1 {
+	fill:rgba(0,255,255,.3)!important;
+}
+g.active_region path.map_color_2 {
+	fill:rgba(255,0,200,.3)!important;
+}
+g.active_region path.map_color_3 {
+	fill:rgba(255,150,0,.3)!important;
+}
+g.active_region path.map_color_4 {
+	fill:rgba(0,100,255,.3)!important;
+}
+g.active_region path.map_color_5 {
+	fill:rgba(0,100,255,.3)!important;
+}
+g.active_region path.map_color_6 {
+	fill:rgba(0,255,255,.3)!important;
+}
+	g.active_region path.map_color:hover{
+		stroke-width:5px!important;
+		stroke:rgba(255,255,255,1)!important;
+	}
+	g.active_region path.map_color.map_color_none:hover,
+	g.active_region path.map_color.map_color_0:hover{
+		stroke-width:5px!important;
+		stroke:rgba(255,255,255,.3)!important;
+		cursor:default;
+	}
+	g.active_region path.map_color_1:hover {
+		fill:rgba(0,255,255,.5)!important;
+		cursor: pointer;
+	}
+	g.active_region path.map_color_2:hover {
+		fill:rgba(255,0,200,.5)!important;
+		cursor: pointer;
+	}
+	g.active_region path.map_color_3:hover {
+		fill:rgba(255,150,0,.5)!important;
+		cursor: pointer;
+	}
+	g.active_region path.map_color_4:hover {
+		fill:rgba(0,100,255,.5)!important;
+		cursor: pointer;
+	}
+	g.active_region path.map_color_5:hover {
+		fill:rgba(0,100,255,.5)!important;
+		cursor: pointer;
+	}
+	g.active_region path.map_color_6:hover {
+		fill:rgba(0,255,255,.5)!important;
+		cursor: pointer;
+	}
+
+/*______________________________________
+specific*/
+	
+path#region_north,
+path#region_central,
+path#region_south,
+path#region_east,
+path#region_sabah,
+path#region_sarawak {
+	stroke-width:2px!important;
+	stroke:rgba(255,255,255,.5)!important;
+}
+	path#region_north {
+		fill:rgba(0,255,255,.3)!important;
+	}
+	path#region_central {
+		fill:rgba(255,0,200,.3)!important;
+	}
+	path#region_south {
+		fill:rgba(255,150,0,.3)!important;
+	}
+	path#region_east {
+		fill:rgba(0,100,255,.3)!important;
+	}
+	path#region_sabah {
+		fill:rgba(0,100,255,.3)!important;
+	}
+	path#region_sarawak {
+		fill:rgba(0,255,255,.3)!important;
+	}
+
+path#region_north:hover,
+path#region_central:hover,
+path#region_south:hover,
+path#region_east:hover,
+path#region_sabah:hover,
+path#region_sarawak:hover{
+	stroke-width:5px!important;
+	stroke:rgba(255,255,255,1)!important;
+}
+	path#region_north:hover {
+		fill:rgba(0,255,255,.5)!important;
+		cursor: pointer;
+	}
+	path#region_central:hover {
+		fill:rgba(255,0,200,.5)!important;
+		cursor: pointer;
+	}
+	path#region_south:hover {
+		fill:rgba(255,150,0,.5)!important;
+		cursor: pointer;
+	}
+	path#region_east:hover {
+		fill:rgba(0,100,255,.5)!important;
+		cursor: pointer;
+	}
+	path#region_sabah:hover {
+		fill:rgba(0,100,255,.5)!important;
+		cursor: pointer;
+	}
+	path#region_sarawak:hover {
+		fill:rgba(0,255,255,.5)!important;
+		cursor: pointer;
+	}
+
+rect.region_deco_box2 {
+	fill:#fff!important;
+	fill-opacity: 1!important;
+}
+
+
+
+/*
+
+property
+
+
+*/
+
+path.property_apartment{
+	fill:#0f0!important;
+	stroke-width:5px!important;
+	stroke:rgba(0,0,0,1)!important;
+}
+	path.property_apartment:hover{
+		fill:#0f0!important;
+		stroke-width:5px!important;
+		stroke:rgba(0,0,0,.5)!important;
+		cursor:pointer;
+	}
+
+
+/*
+
+overall early late actual
+
+
+*/
+
+path.semi_diamond {
+	fill:rgba(255,255,255,.25)!important;
+	stroke:none!important;
+}
+path.title_box {
+	fill:rgba(255,255,255,.25)!important;
+	stroke:none!important;
+}
+path.title_box {
+	fill:#223!important;
+	stroke:#223!important;
+	stroke-width:2px!important;
+}
+
+path.deco_top {
+	fill:#f05!important;
+}
+path.deco_bottom {
+	stroke:#f05!important;
+}
+
+/*actual*/
+path.overall_actual.deco_bottom {
+	stroke:#09f!important;
+}
+	path.overall_actual.deco_top {
+		fill:#09f!important;
+	}
+
+
+/*early*/
+path.overall_planned.deco_bottom {
+	stroke:#0f5!important;
+}
+	path.overall_planned.deco_top {
+		fill:#0f5!important;
+	}
+
+
+/*late*/
+path.overall_variance.deco_bottom {
+	stroke:#f50!important;
+}
+	path.overall_variance.deco_top {
+		fill:#f50!important;
+	}
+
+
+/*trend*/
+path.overall_trend.deco_bottom {
+	stroke:#fff!important;
+}
+	path.overall_trend.deco_top {
+		fill:#fff!important;
+	}
+path.overall_trend.triangle_up {
+	fill:#0f5!important;
+}
+path.overall_trend.triangle_down {
+	fill:none!important;
+}
+
+
+
+
+
+/*
+
+overall progress
+
+
+*/
+
+text.text_title {
+	fill:#fff!important;
+	/*stroke:#000!important;*/
+}
+
+text.text_num {
+	fill:#fff!important;
+	/*stroke:#000!important;*/
+}
+
+path.overall_percent_bar {
+	fill:#fff!important;
+}
+text.text_op_percent,
+text.text_op_title,
+text.text_region,
+/*rect.region_deco_box1,*/
+rect.region_deco_box2 {
+	fill:#fff!important;
+}
+
+path.region_line_1 {
+	stroke:#fff!important;
+	stroke-width:5px!important;
+}
+
+
+/*
+
+project cost update
+
+
+*/
+
+path.pcu_box {
+	fill:rgba(255,255,255,.1)!important;
+	stroke:rgba(255,255,255,.25)!important;
+}
+path.pcu_box_crosshair {
+	stroke:rgba(255,255,255,1)!important;
+}
+text.pcu_box_title {
+	fill:#fff!important;
+}
+text.pcu_box_num {
+	fill:#ff0!important;
+}
+
+
+/*
+
+infographic title
+
+
+*/
+
+
+
+path.it_block_left {
+	fill:#fff!important;
+	stroke:#fff!important;
+}
+path.it_block_right {
+	stroke:rgba(255,255,255,.3)!important;
+	fill-opacity:.5!important;
+}
+text.it_title {
+	fill:#fff!important;
+}
+
+
+
+
+
+
+/*
+
+infographic chart
+
+
+*/
+
+div.infographic_chart {
+	position: absolute;
+	background: #0f0;
+	width: 45%;
+	height: 32%;
+	top:13%;
+	right: 4%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*draft*/
+
+rect.region_1_box1,
+rect.region_1_box2,
+path.region_1_overall_percent_bar_01,
+path.region_1_overall_percent_bar_02,
+path.region_1_overall_percent_bar_03,
+path.region_1_overall_percent_bar_04,
+path.region_1_overall_percent_bar_05,
+path.region_1_overall_percent_bar_06,
+path.region_1_overall_percent_bar_07,
+path.region_1_overall_percent_bar_08,
+path.region_1_overall_percent_bar_09,
+path.region_1_overall_percent_bar_10,
+path.region_1_overall_percent_bar_11,
+path.region_1_overall_percent_bar_12,
+path.region_1_overall_percent_bar_13,
+path.region_1_overall_percent_bar_14,
+path.region_1_overall_percent_bar_15,
+path.region_1_overall_percent_bar_16,
+path.region_1_overall_percent_bar_17,
+path.region_1_overall_percent_bar_18,
+path.region_1_overall_percent_bar_19,
+path.region_1_overall_percent_bar_20,
+text.region_1_text_region,
+text.region_1_text_op_percent,
+text.region_1_text_op_title,
+
+
+/*
+region description
+*/
+
+
+rect.region_1_box1,
+rect.region_1_box2,
+path.region_1_overall_percent_bar_01,
+path.region_1_overall_percent_bar_02,
+path.region_1_overall_percent_bar_03,
+path.region_1_overall_percent_bar_04,
+path.region_1_overall_percent_bar_05,
+path.region_1_overall_percent_bar_06,
+path.region_1_overall_percent_bar_07,
+path.region_1_overall_percent_bar_08,
+path.region_1_overall_percent_bar_09,
+path.region_1_overall_percent_bar_10,
+path.region_1_overall_percent_bar_11,
+path.region_1_overall_percent_bar_12,
+path.region_1_overall_percent_bar_13,
+path.region_1_overall_percent_bar_14,
+path.region_1_overall_percent_bar_15,
+path.region_1_overall_percent_bar_16,
+path.region_1_overall_percent_bar_17,
+path.region_1_overall_percent_bar_18,
+path.region_1_overall_percent_bar_19,
+path.region_1_overall_percent_bar_20,
+text.region_1_text_region,
+text.region_1_text_op_percent,
+text.region_1_text_op_title,
+image.Flag_of_Negeri_Sembilan,
+image.Flag_of_Penang,
+image.Flag_of_Perak,
+image.Flag_of_Selangor,
+image.Flag_of_Kedah,
+image.Flag_of_Kelantan,
+image.Flag_of_Kuala_Lumpur,
+image.Flag_of_Labuan,
+image.Flag_of_Pahang,
+image.Flag_of_Perlis,
+image.Flag_of_Putrajaya,
+image.Flag_of_Sabah,
+image.Flag_of_Sarawak,
+image.Flag_of_Terengganu,
+image.Flag_of_Johor,
+image.Flag_of_Malacca {
+	/*fill:#fff!important;*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
