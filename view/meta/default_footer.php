@@ -7,6 +7,7 @@
 <script src="../assets/lib/malihu-custom-scrollbar-plugin-master/jquery-1.11.0.min.js"></script>
 <script src="../assets/lib/malihu-custom-scrollbar-plugin-master/jquery.mCustomScrollbar.concat.min.js"></script>
 <script src="../assets/lib/malihu-custom-scrollbar-plugin-master/jquery.mCustomScrollbar.js"></script>
+<script src="../assets/lib/nano-gallery2/jquery.nanogallery.min.js"></script>
 <script>
 	(function($){
 		$(window).load(function(){

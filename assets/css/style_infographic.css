@@ -288,7 +288,7 @@ property
 */
 
 path.property_apartment{
-	fill:#0f0!important;
+	/*fill:#0f0!important;*/
 	stroke-width:5px!important;
 	stroke:rgba(0,0,0,1)!important;
 }
@@ -299,6 +299,15 @@ path.property_apartment{
 		cursor:pointer;
 	}
 
+path.property_apartment.completed{
+	fill:#0f0!important;
+}
+path.property_apartment.progress{
+	fill:#fca739 !important;
+}
+path.property_apartment.notstarted{
+	fill:rgba(0,0,0,.3) !important;
+}
 
 /*
 

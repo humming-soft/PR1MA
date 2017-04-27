@@ -309,7 +309,7 @@ portlet_progress_v2
 
 */
 div.portlet_progress_v2 div.content {
-	height: 578px;
+	height: 300px;
 }
 div.portlet_progress_v2 div.portlet_content {
 }
@@ -972,7 +972,7 @@ div.portlet_info div.content span.info_subtitle {
 	font-size: 1em;
 	text-align: center;
 }
-div.portlet_info div.pc_top span.info_title,
+div.portlet_info div.pc_top span.info_title
 div.portlet_info div.pc_top span.info_subtitle {
 	color: #fff;
 }
@@ -980,6 +980,16 @@ div.portlet_info div.pc_bottom span.info_title,
 div.portlet_info div.pc_bottom span.info_subtitle {
 	color: #cac;
 }
+/*Added By Sebin*/
+/*starts Here*/
+div.portlet_info div.content span.info_location {
+	font-size: 0.7em;
+	color: #abd7fe;
+}
+.m-t-10{
+	margin-top: 10px;
+}
+/*Ends Here*/
 
 div.portlet_info span.iv_station {
 	margin: 5px 0;
@@ -1071,6 +1081,13 @@ div.portlet_kpi div.halfdonut span {
 	text-align: center;
 }
 
+.highcharts-tooltip-box {
+	fill: #222233B3;
+	fill-opacity: 0.6;
+}
+/*.highcharts-grid-line{*/
+	/*stroke: #000;*/
+/*}*/
 
 
 

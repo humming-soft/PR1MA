@@ -24,7 +24,7 @@
 
 <!-- malihu - custom scroll -->
 <link rel="stylesheet" href="../assets/lib/malihu-custom-scrollbar-plugin-master/jquery.mCustomScrollbar.css">
-
+<link rel="stylesheet" type="text/css" href="../assets/lib/nano-gallery2/css/nanogallery.min.css">
 <!-- vivus -->
 <script type="text/javascript" src="../assets/lib/vivus/vivus.js"></script>
 
@@ -34,6 +34,7 @@
 <link rel="stylesheet" type="text/css" href="../assets/css/style_portlet.css">
 <link rel="stylesheet" type="text/css" href="../assets/css/style_animation.css">
 <link rel="stylesheet" type="text/css" href="../assets/css/bin.css">
+
 
 <!-- theme -->
 	

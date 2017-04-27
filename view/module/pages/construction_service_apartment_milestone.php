@@ -13,32 +13,27 @@
 					<span><i class="fa fa-angle-right breadcrumb_divider" aria-hidden="true"></i></span>
 					<span class="custom_breadcrumb-item"><a href="construction_state_selangor_sepang.php">Sepang</a></span>
 					<span><i class="fa fa-angle-right breadcrumb_divider" aria-hidden="true"></i></span>
-					<span class="custom_breadcrumb-item active">PR1MA @ Cyberjaya 2</span>
+					<span class="custom_breadcrumb-item"><a href="construction_service_apartment.php">PR1MA @ Cyberjaya 2</a></span>
+					<span><i class="fa fa-angle-right breadcrumb_divider" aria-hidden="true"></i></span>
+					<span class="custom_breadcrumb-item active">PRIMA preparation of tender document</span>
 				</nav>
 			</div>
 			<div class="title">
 			</div>
 		</div>
 		
-		<div class="col-md-6">
+		<div class="col-md-8">
 		
 			<div class="row">
-				<?php include 'module/portlet/portlet_mrt_info_station.html'; ?>
-				<?php include 'module/portlet/portlet_progress_v2.html'; ?>
-				<?php include 'module/portlet/portlet_milestone.html'; ?>
-				<?php include 'module/portlet/portlet_gallery.html'; ?>
-				<?php include 'module/portlet/portlet_line_chart_1.html'; ?>
-				<?php /*include 'module/portlet/portlet_performance.html'; */?>
+				<?php include 'module/portlet/portlet_kpi.html'; ?>
 			</div>
 			
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-4">
 		
 			<div class="row">
-				<?php include 'module/portlet/portlet_finance_analysis.html'; ?>
-				<?php include 'module/portlet/portlet_hsse.html'; ?>
-				<?php include 'module/portlet/portlet_line_chart_2.html'; ?>
-				<?php /*include 'module/portlet/portlet_mrt_scurve4.html'; */?>
+				<?php include 'module/portlet/portlet_prognosis.html'; ?>
+				<?php include 'module/portlet/portlet_prognosis2.html'; ?>
 			</div>
 			
 		</div>
@@ -46,5 +41,4 @@
 	</div>
 	
 </div>
-
-<script type="text/javascript" src="../assets/js/pages/construction_service_apartment.js"></script>
+<script type="text/javascript" src="../assets/js/pages/construction_service_apartment_milestone.js"></script>
