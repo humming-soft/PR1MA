@@ -25,6 +25,7 @@
 			<div class="row">
 				<?php include 'module/portlet/portlet_mrt_info_station.html'; ?>
 				<?php include 'module/portlet/portlet_progress_v2.html'; ?>
+				<?php include 'module/portlet/portlet_project_type.html'; ?>
 				<?php include 'module/portlet/portlet_milestone.html'; ?>
 				<?php include 'module/portlet/portlet_gallery.html'; ?>
 				<?php include 'module/portlet/portlet_line_chart_1.html'; ?>

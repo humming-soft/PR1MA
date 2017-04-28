@@ -196,7 +196,7 @@ $(document).ready(function(){
 		if (dd_dayleft < 0 && parseInt(d_pcomplete) != 100) {
 			var d_variance = Math.round(dd_dayleft/7);
 			var d_dayleft = 0;
-			var d_status = "colorcode_row1";
+			var d_status = "colorcode_row2";
 			var d_blink = "blink";
 		} else if (dd_dayleft < 0 && parseInt(d_pcomplete) == 100) {
 			var d_variance = 0;
@@ -210,7 +210,7 @@ $(document).ready(function(){
 			var d_blink = "";
 		};
 		
-		$('.portlet_milestone tbody').append('<tr class="'+d_status+'"><td class="'+d_blink+'"><a href="construction_service_apartment_milestone.php">'+d_taskname+'</a></td><td class="set_center">'+d_baseline_s+'</td><td class="set_center">'+d_baseline_f+'</td><td class="set_center">'+d_dayleft+'</td><td class="set_center">'+d_variance+' Week(s)</td><td class="set_center">'+d_pcomplete+'</td></tr>')
+		$('.portlet_milestone tbody').append('<tr class="'+d_status+'"><td class=""><a href="construction_service_apartment_milestone.php"><span class="'+d_blink+'">'+d_taskname+'</span></a></td><td class="set_center">'+d_baseline_s+'</td><td class="set_center">'+d_baseline_f+'</td><td class="set_center">'+d_dayleft+'</td><td class="set_center">'+d_variance+' Week(s)</td><td class="set_center">'+d_pcomplete+'</td></tr>')
 		$('.blink').blink();
 	};
 

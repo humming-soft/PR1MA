@@ -28,7 +28,5 @@
 }(jQuery))
 
 $(document).ready(function(){
-
-
 });
 

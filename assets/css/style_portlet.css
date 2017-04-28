@@ -63,6 +63,11 @@ blue, blue, red*/
 	border-left: 3px solid #f05;
 	border-right: 3px solid #f05;
 }
+.colorcode_row2{
+	background: rgba(249, 195, 177, 0.3);
+	border-left: 3px solid #f05;
+	border-right: 3px solid #f05;
+}
 
 /*
 
@@ -325,15 +330,26 @@ div.portlet_progress_v2 div.portlet_content {
 .portlet_progress_v2 div.block div.plate > span {
 	display: block;
 }
-.portlet_progress_v2 div.block span.title {
+.portlet_progress_v2 div.block.block_left span.title {
 	font-size: .8em;
 	vertical-align: middle;
 	padding: 10px 5px 5px;
 }
-.portlet_progress_v2 div.block span.number {
+.portlet_progress_v2 div.block.block_left span.number {
 	font-size: 2em;
 	vertical-align: middle;
 	padding: 0 20px;
+}
+.portlet_progress_v2 div.block.block_right span.title {
+	text-align: right;
+	font-size: .8em;
+	vertical-align: middle;
+	padding: 10px 5px 5px;
+}
+.portlet_progress_v2 div.block.block_right span.number {
+	font-size: 2em;
+	vertical-align: middle;
+	margin-left: 60px;
 }
 	.portlet_progress_v2 div.block .plate1 span.number {
 		border-left: 3px solid #09f;
@@ -343,6 +359,15 @@ div.portlet_progress_v2 div.portlet_content {
 	}
 	.portlet_progress_v2 div.block .plate3 span.number {
 		border-left: 3px solid #f50;
+	}
+	.portlet_progress_v2 div.block .plate4 span.number {
+		border-right: 3px solid #f8e731;
+	}
+	.portlet_progress_v2 div.block .plate5 span.number {
+		border-right: 3px solid #0fa;
+	}
+	.portlet_progress_v2 div.block .plate6 span.number {
+		border-right: 3px solid #f50;
 	}
 
 circle.svg_donut_system_circle {
@@ -629,7 +654,54 @@ div.portlet_pcu div.block_plate div.block.block_b3 span.number {
 }
 
 
+/*
 
+
+portlet_project_type
+
+
+*/
+div.portlet_project_type div.content {
+	background: #252237; /*252237*/
+}
+
+div.portlet_project_type #pcu1,
+div.portlet_project_type #pcu2 {
+	/*margin: 30px 20px 0 20px;*/
+	height: 260px;
+}
+
+
+div.portlet_project_type div.block_plate {
+	/*margin-top: 20px;*/
+}
+
+div.portlet_project_type div.block_plate div.block {
+	/*height: 120px;*/
+	/*margin: 10px;*/
+	padding: 10px;
+}
+
+div.portlet_project_type div.block_plate div.block span.type {
+	font-size: 1.5em;
+	display: block;
+	text-align: center;
+}
+div.portlet_project_type div.block_plate div.block span.units {
+	font-size: 1.5em;
+	display: block;
+	text-align: center;
+}
+div.portlet_project_type div.block_plate div.block span.title {
+	font-size: 1.1em;
+	display: block;
+	text-align: center;
+}
+
+
+div.portlet_project_type div.block_plate div.block.block_a2 span.units {
+	border-top: 3px solid #cc7a00;
+}
 
 
 /*
