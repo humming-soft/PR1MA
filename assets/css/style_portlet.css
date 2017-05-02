@@ -77,7 +77,26 @@ dimension
 
 */
 
-div.plate_issue div.row.height_x1_sm,
+/*new*/
+div.portlet div.height_x1,
+div.portlet div.height_x1 div.highcharts_inside div {
+	height: 100px!important;
+}
+div.portlet div.height_x2,
+div.portlet div.height_x2 div.highcharts_inside div {
+	height: 243px!important;
+}
+div.portlet div.height_x3,
+div.portlet div.height_x3 div.highcharts_inside div {
+	height: 529px!important;
+}
+div.portlet div.height_x4,
+div.portlet div.height_x4 div.highcharts_inside div {
+	height: 1101px!important;
+}
+
+/*old*/
+/*div.plate_issue div.row.height_x1_sm,
 div.plate_portlet div.row.height_x1_sm {
 	height: 182px;
 	overflow: hidden;
@@ -100,9 +119,9 @@ div.plate_portlet div.row.height_x3 {
 div.plate_issue div.row.height_xx,
 div.plate_portlet div.row.height_xx {
 	height: 100%;
-}
+}*/
 
-div.plate_portlet div.row.height_x1.highcharts_inside,
+/*div.plate_portlet div.row.height_x1.highcharts_inside,
 div.plate_portlet div.row.height_x1.highcharts_inside > div,
 div.plate_portlet div.row.height_x1.highcharts_inside div.highcharts-container  {
 	height: 260px;
@@ -128,13 +147,13 @@ div.plate_portlet div.row.height_xx.highcharts_inside > div,
 div.plate_portlet div.row.height_xx.highcharts_inside div.highcharts-container  {
 	height: 100%;
 	padding: 0 10px 20px 0;
-}
+}*/
 
 /*temp*/
-div.height_x2a {
+/*div.height_x2a {
 	height: 240px;
 	overflow: hidden;
-}
+}*/
 
 /*
 
@@ -768,7 +787,22 @@ div.top_plate div.block_title span.number {
 	div.top_plate div.block_title span.number a {
 		color: #fff;
 	}
+	
+	
+	
+/*
 
+
+portlet_diagram
+
+
+*/
+div.portlet_diagram div.content {
+	
+}
+
+div.portlet_diagram  {
+}
 
 
 
