@@ -798,15 +798,109 @@ portlet_diagram
 
 */
 div.portlet_diagram div.content {
-	
+	/*background: rgba(0,255,255,.1);*/
 }
 
-div.portlet_diagram  {
+div.portlet_diagram div.portlet_content svg {
+	height: 100%;
+	width: 100%;
+}
+
+/*building structure*/
+
+div.portlet_diagram .diagram_path_block_a {
+	fill:rgba(255,0,0,.25)!important;
+	stroke:#f00!important;
+	stroke-width:0.5!important;
+}
+div.portlet_diagram .diagram_path_block_b {
+	fill:rgba(255,255,0,.25)!important;
+	stroke:#ff0!important;
+	stroke-width:0.5!important;
+}
+div.portlet_diagram .diagram_path_block_ab {
+	fill:rgba(255,255,0,.25)!important;
+	stroke:#ff0!important;
+	stroke-width:0.5!important;
+}
+div.portlet_diagram .diagram_path_block_c {
+	fill:rgba(0,255,255,.25)!important;
+	stroke:#0ff!important;
+	stroke-width:0.5!important;
+}
+div.portlet_diagram .diagram_path_block_d {
+	fill:rgba(0,255,255,.25)!important;
+	stroke:#0ff!important;
+	stroke-width:0.5!important;
+}
+div.portlet_diagram .diagram_path_block_cd {
+	fill:rgba(0,255,255,.25)!important;
+	stroke:#0ff!important;
+	stroke-width:0.5!important;
+}
+div.portlet_diagram .diagram_rect_guard {
+	fill:rgba(255,255,255,.05)!important;
+	stroke:rgba(255,255,255,.5)!important;
+	stroke-width:0.5!important;
+}
+div.portlet_diagram .diagram_path_block_hall {
+	fill:rgba(255,255,255,.05)!important;
+	stroke:rgba(255,255,255,.5)!important;
+	stroke-width:0.5!important;
+}
+div.portlet_diagram .diagram_path_road {
+	fill:rgba(0,0,0,.25)!important;
+	stroke:#000!important;
+	stroke-width:1!important;
+}
+
+/*text*/
+div.portlet_diagram .diagram_font_block {
+	fill:#fff!important;
+}
+div.portlet_diagram .diagram_font_plate_title {
+	fill:#fff!important;
+}
+div.portlet_diagram .diagram_font_plate_sub {
+	fill:#aab!important;
+}
+div.portlet_diagram .diagram_font_plate_number_a {
+	fill:#0ff!important;
+}
+div.portlet_diagram .diagram_font_plate_number_b {
+	fill:#ccc!important;
+}
+
+div.portlet_diagram .diagram_font_plate_title.total {
+	fill:#fff!important;
+	/*font-weight:bold!important;*/
+}
+div.portlet_diagram .diagram_font_plate_sub.total {
+	fill:#fff!important;
+}
+div.portlet_diagram .diagram_font_plate_number_a.total {
+	fill:#0ff!important;
+	font-weight:bold!important;
+}
+div.portlet_diagram .diagram_font_plate_number_b.total {
+	fill:#fff!important;
+	font-weight:bold!important;
 }
 
 
-
-
+/*plate*/
+div.portlet_diagram .diagram_rect_text_plate {
+	/*fill:rgba(15,200,255,.05)!important;*/
+	fill:rgba(150,200,255,.15)!important;
+	stroke:#aaa!important;
+	stroke-width:0.25!important;
+}
+div.portlet_diagram .diagram_rect_text_plate.total {
+	/*fill:rgba(15,200,255,.2)!important;*/
+	fill:rgba(150,200,255,.2)!important;
+	stroke:#fff!important;
+	stroke-width:1!important;
+}
 
 
 /*

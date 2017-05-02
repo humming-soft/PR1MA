@@ -1,15 +1,5 @@
-<div class="col-md-12 portlet portlet_diagram">
-	<div class="row content">
-		<div class="col-md-12 portlet_title">
-			<i class="fa_title_icon fa fa-map-o" aria-hidden="true"></i>
-			Diagram
-		</div>
-		<div class="col-md-12 portlet_content">
-			<div class="row height_x3 " data-mcs-theme="light">
-
-
-<!-- ---- svg ---- -->
-
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -19,6 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300mm"
+   height="210mm"
    viewBox="0 0 300 210"
    version="1.1"
    id="svg4628"
@@ -125,82 +117,64 @@
      inkscape:label="Layer 2"
      transform="translate(0,-87.000001)">
     <path
-    	class="diagram_path_road"
-       style="fill:#333;fill-rule:evenodd;stroke:#000000;stroke-width:0.26089165px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 24.971971,289.527 173.839849,0 0,-79.68676 -38.76783,0 0,-52.17585 -35.07565,0 0,14.86221 -10.15348,0 c 0.76703,-55.7427 -25.334986,-67.60341 -6.76898,-75.259718 29.24601,-16.921426 58.49202,-41.467261 87.73803,-72.383623 l -31.44993,1.408565 C 154.02931,33.771143 112.5878,76.840666 56.693809,96.905628 -8.4013504,120.27365 -89.528104,119.5814 -108.6313,105.67244 l -1.41236,25.98183 c 11.483271,2.69714 124.117555,7.57113 182.77711,-17.2171 26.432541,-18.182454 29.92576,41.82206 29.1588,71.37056 l -0.0731,7.27299 -47.002152,0 0,45.5353 -29.845069,0 z"
-       id="path4238"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccsccccccccc" />
-    <path
-    	class="diagram_path_block_b"
-       style="fill:#0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffb0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 45.36511,156.75797 0.04021,21.10289 22.421361,0.0896 -0.175551,7.26909 1.322931,-0.004 27.652354,-0.0677 -0.06538,-34.33044 -28.707436,0.0702 0.01103,5.81508 -22.499534,0.055"
        id="path5794-6-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc" />
     <path
-    	class="diagram_path_block_a"
-       style="fill:#0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffb0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 32.283003,180.31915 -10.266166,0.0672 0.01167,23.04357 -7.073573,-0.14837 0.0095,1.3596 0.187724,28.41896 33.403088,-0.21855 -0.194836,-29.50328 -5.658007,0.037 -0.1527,-23.12329"
        id="path5794-6-3-84"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc" />
     <path
-    	class="diagram_path_block_a"
-       style="fill:#0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffb0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 32.283003,180.31915 -0.06666,-10.09951 10.287412,-0.0673 0.06657,10.07316"
        id="path5796-2-2-3"
        inkscape:connector-curvature="0" />
     <path
-    	class="diagram_path_block_ab"
-       style="fill:#0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffb0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 22.016837,164.39249 0,15.99385 10.283674,0 0,-10.17677 13.053811,0 0,-4.55933 -2.906515,0 0,-5.76467 -16.572211,0"
        id="path5834-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
     <path
-    	class="diagram_path_block_ab"
-       style="fill:#0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffb0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 25.875596,159.88557 -3.08306,-2.73498 -3.912841,4.24754 3.137142,2.99436 0,0.21175"
        id="path5836-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
-    	class="diagram_path_block_d"
-       style="fill:#0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffb0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 194.26846,149.47016 -20.53252,-0.17979 -0.3221,23.04119 -7.07064,-0.25657 -0.0102,1.35959 -0.22393,28.41867 33.40254,0.29255 0.23252,-29.50301 -5.65791,-0.0496 0.18224,-23.12306"
        id="path5794-6-30-63"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc" />
     <path
-    	class="diagram_path_block_c"
-       style="fill:#0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffb0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 171.48165,135.77896 0.0422,-10.55111 -22.42041,-0.22947 0.21848,-7.26786 -1.32292,-0.005 -27.65224,-0.10487 -0.13738,34.33021 28.70732,0.10892 0.0232,-5.81505 22.49943,0.0854"
        id="path5794-6-3-8-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc" />
     <path
-    	class="diagram_path_block_c"
-       style="fill:#0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffb0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 171.48165,135.77896 9.82703,0.0373 -0.0423,10.57296 -9.80139,-0.0371"
        id="path5796-2-2-6-1"
        inkscape:connector-curvature="0" />
     <path
-    	class="diagram_path_block_cd"
-       style="fill:#0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffb0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 187.08509,125.39544 -15.56125,-0.16759 -0.10776,10.56841 9.90151,0.10662 -0.13679,13.41524 4.43602,0.0478 0.0305,-2.98699 5.60877,0.0604 0.17364,-17.03104"
        id="path5834-1-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
     <path
-    	class="diagram_path_block_cd"
-       style="fill:#0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffb0ff;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 191.42967,129.40826 2.69331,-3.13976 -4.09165,-4.06568 -2.94624,3.19262 -0.20601,-0.002"
        id="path5836-6-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <rect
-    	class="diagram_rect_guard"
        style="opacity:1;fill:none;fill-opacity:1;stroke:#75a900;stroke-width:1.18976665;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
        id="rect5788-7-6"
        width="17.347324"
@@ -210,16 +184,20 @@
        transform="matrix(0.94227949,-0.33482736,0.35165764,0.93612868,0,0)"
        ry="0" />
     <path
-    	class="diagram_path_block_hall"
-       style="fill:#f0f;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#97e4ea;fill-opacity:1;stroke:#c70000;stroke-width:0.92441922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 152.75291,226.97024 -20.53253,-0.17979 -0.10453,10.29603 -7.51598,-0.015 -0.006,42.28184 33.40256,0.29255 0.0149,-42.69536 -5.44035,-0.0496 -0.0353,-9.9307"
        id="path5794-6-30-6-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26089165px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 24.971971,289.527 173.839849,0 0,-79.68676 -38.76783,0 0,-52.17585 -35.07565,0 0,14.86221 -10.15348,0 c 0.76703,-55.7427 -25.334986,-67.60341 -6.76898,-75.259718 29.24601,-16.921426 58.49202,-41.467261 87.73803,-72.383623 l -31.44993,1.408565 C 154.02931,33.771143 112.5878,76.840666 56.693809,96.905628 -8.4013504,120.27365 -89.528104,119.5814 -108.6313,105.67244 l -1.41236,25.98183 c 11.483271,2.69714 124.117555,7.57113 182.77711,-17.2171 26.432541,-18.182454 29.92576,41.82206 29.1588,71.37056 l -0.0731,7.27299 -47.002152,0 0,45.5353 -29.845069,0 z"
+       id="path4238"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccsccccccccc" />
     <text
        xml:space="preserve"
-       class="diagram_font_block"
-       style="font-style:normal;font-weight:normal;font-size:6.35000038px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:6.35000038px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="27.214602"
        y="221.57539"
        id="text4244"
@@ -231,8 +209,7 @@
          style="font-size:14.11111259px">A</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_block"
-       style="font-style:normal;font-weight:normal;font-size:6.35000038px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:6.35000038px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="76.664444"
        y="172.55943"
        id="text4244-1"
@@ -244,8 +221,7 @@
          style="font-size:14.11111259px">B</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_block"
-       style="font-style:normal;font-weight:normal;font-size:6.35000038px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:6.35000038px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="130.48337"
        y="139.66072"
        id="text4244-2"
@@ -257,8 +233,7 @@
          id="tspan4274">C</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_block"
-       style="font-style:normal;font-weight:normal;font-size:6.35000038px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:6.35000038px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="177.89127"
        y="190.10542"
        id="text4244-0"
@@ -269,7 +244,6 @@
          y="190.10542"
          style="font-size:14.11111259px">D</tspan></text>
     <rect
-    	class="diagram_rect_text_plate"
        style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.05299997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4286"
        width="69.846497"
@@ -278,8 +252,7 @@
        y="92.859268" />
     <text
        xml:space="preserve"
-       class="diagram_font_plate_sub"
-       style="font-style:normal;font-weight:normal;font-size:5.03776646px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.03776646px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="227.56262"
        y="111.19642"
        id="text4288"
@@ -290,8 +263,7 @@
          y="111.19642">Unit Build</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_sub"
-       style="font-style:normal;font-weight:normal;font-size:5.03776646px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.03776646px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="265.20148"
        y="110.87893"
        id="text4292"
@@ -302,8 +274,7 @@
          y="110.87893">Unit Total</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_title"
-       style="font-style:normal;font-weight:normal;font-size:8.97112083px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:8.97112083px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="226.55359"
        y="102.86441"
        id="text4296"
@@ -314,8 +285,7 @@
          y="102.86441">Block A</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_number_a data1"
-       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="226.55151"
        y="124.67206"
        id="text4244-0-5"
@@ -327,8 +297,7 @@
          style="font-size:13.27727413px">888</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_number_b data1"
-       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="264.96933"
        y="124.67204"
        id="text4244-0-5-2"
@@ -339,7 +308,6 @@
          y="124.67204"
          style="font-size:13.27727413px">888</tspan></text>
     <rect
-    	class="diagram_rect_text_plate"
        style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.05299997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4286-8"
        width="69.846497"
@@ -348,8 +316,7 @@
        y="129.68741" />
     <text
        xml:space="preserve"
-       class="diagram_font_plate_sub"
-       style="font-style:normal;font-weight:normal;font-size:5.03776598px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.03776598px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="227.56262"
        y="148.02455"
        id="text4288-0"
@@ -360,8 +327,7 @@
          y="148.02455">Unit Build</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_sub"
-       style="font-style:normal;font-weight:normal;font-size:5.03776598px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.03776598px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="265.20148"
        y="147.70708"
        id="text4292-7"
@@ -372,8 +338,7 @@
          y="147.70708">Unit Total</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_title"
-       style="font-style:normal;font-weight:normal;font-size:8.97112083px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:8.97112083px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="226.55359"
        y="139.69255"
        id="text4296-1"
@@ -384,8 +349,7 @@
          y="139.69255">Block A</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_number_a data2"
-       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="226.55151"
        y="161.5002"
        id="text4244-0-5-3"
@@ -397,8 +361,7 @@
          style="font-size:13.27727413px">888</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_number_b data2"
-       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="264.96933"
        y="161.50018"
        id="text4244-0-5-2-4"
@@ -409,7 +372,6 @@
          y="161.50018"
          style="font-size:13.27727413px">888</tspan></text>
     <rect
-    	class="diagram_rect_text_plate"
        style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.05299997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4286-7"
        width="69.846497"
@@ -418,8 +380,7 @@
        y="166.19809" />
     <text
        xml:space="preserve"
-       class="diagram_font_plate_sub"
-       style="font-style:normal;font-weight:normal;font-size:5.03776598px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.03776598px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="227.56262"
        y="184.53523"
        id="text4288-2"
@@ -430,8 +391,7 @@
          y="184.53523">Unit Build</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_sub"
-       style="font-style:normal;font-weight:normal;font-size:5.03776598px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.03776598px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="265.20148"
        y="184.21774"
        id="text4292-4"
@@ -442,8 +402,7 @@
          y="184.21774">Unit Total</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_title"
-       style="font-style:normal;font-weight:normal;font-size:8.97112083px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:8.97112083px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="226.55357"
        y="176.20322"
        id="text4296-2"
@@ -454,8 +413,7 @@
          y="176.20322">Block A</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_number_a data3"
-       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="226.55151"
        y="198.01086"
        id="text4244-0-5-0"
@@ -467,8 +425,7 @@
          style="font-size:13.27727413px">888</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_number_b data3"
-       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="264.96933"
        y="198.01085"
        id="text4244-0-5-2-9"
@@ -479,7 +436,6 @@
          y="198.01085"
          style="font-size:13.27727413px">888</tspan></text>
     <rect
-    	class="diagram_rect_text_plate"
        style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.05299997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4286-8-5"
        width="69.846497"
@@ -488,8 +444,7 @@
        y="203.02623" />
     <text
        xml:space="preserve"
-       class="diagram_font_plate_sub"
-       style="font-style:normal;font-weight:normal;font-size:5.03776598px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.03776598px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="227.56262"
        y="221.36337"
        id="text4288-0-5"
@@ -500,8 +455,7 @@
          y="221.36337">Unit Build</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_sub"
-       style="font-style:normal;font-weight:normal;font-size:5.03776598px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.03776598px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="265.20148"
        y="221.0459"
        id="text4292-7-6"
@@ -512,8 +466,7 @@
          y="221.0459">Unit Total</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_title"
-       style="font-style:normal;font-weight:normal;font-size:8.97112083px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:8.97112083px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="226.55357"
        y="213.03137"
        id="text4296-1-5"
@@ -524,8 +477,7 @@
          y="213.03137">Block A</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_number_a data4"
-       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="226.55151"
        y="234.83902"
        id="text4244-0-5-3-4"
@@ -537,8 +489,7 @@
          style="font-size:13.27727413px">888</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_number_b data4"
-       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="264.96933"
        y="234.839"
        id="text4244-0-5-2-4-3"
@@ -549,7 +500,6 @@
          y="234.839"
          style="font-size:13.27727413px">888</tspan></text>
     <rect
-    	class="diagram_rect_text_plate total"
        style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.05299997;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4286-8-5-5"
        width="69.846497"
@@ -558,8 +508,7 @@
        y="240.41727" />
     <text
        xml:space="preserve"
-       class="diagram_font_plate_sub total"
-       style="font-style:normal;font-weight:normal;font-size:5.03776598px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.03776598px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="227.73135"
        y="264.15323"
        id="text4288-0-5-1"
@@ -570,8 +519,7 @@
          y="264.15323">Unit Build</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_sub total"
-       style="font-style:normal;font-weight:normal;font-size:5.03776598px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.03776598px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="265.37021"
        y="263.83572"
        id="text4292-7-6-1"
@@ -582,8 +530,7 @@
          y="263.83572">Unit Total</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_title total"
-       style="font-style:normal;font-weight:normal;font-size:8.97112083px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:8.97112083px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="226.72229"
        y="255.82118"
        id="text4296-1-5-5"
@@ -594,8 +541,7 @@
          y="255.82118">Total</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_number_a data5 total"
-       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="226.72025"
        y="277.62885"
        id="text4244-0-5-3-4-1"
@@ -607,8 +553,7 @@
          style="font-size:13.27727413px">888</tspan></text>
     <text
        xml:space="preserve"
-       class="diagram_font_plate_number_b data5 total"
-       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:5.97477293px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="265.13806"
        y="277.62885"
        id="text4244-0-5-2-4-3-8"
@@ -620,15 +565,3 @@
          style="font-size:13.27727413px">888</tspan></text>
   </g>
 </svg>
-
-
-
-
-<!-- ---- svg ---- -->
-
-
-			</div>
-			<br>
-		</div>
-	</div>
-</div>
