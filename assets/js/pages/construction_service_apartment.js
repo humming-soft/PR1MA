@@ -57,6 +57,35 @@ $(document).ready(function(){
 
 
 	//
+	// diagram
+	//
+	
+	d_unit_total = 469;
+	d_data1_unit_build = 17;
+	d_data1_unit_total = 110;
+	d_data2_unit_build = 43;
+	d_data2_unit_total = 124;
+	d_data3_unit_build = 124;
+	d_data3_unit_total = 125;
+	d_data4_unit_build = 110;
+	d_data4_unit_total = 110;
+	d_unit_build = d_data1_unit_build+d_data2_unit_build+d_data3_unit_build+d_data4_unit_build
+	
+	$('.diagram_font_plate_number_a.data1 tspan').text(d_data1_unit_build);
+	$('.diagram_font_plate_number_b.data1 tspan').text(d_data1_unit_total);
+	$('.diagram_font_plate_number_a.data2 tspan').text(d_data2_unit_build);
+	$('.diagram_font_plate_number_b.data2 tspan').text(d_data2_unit_total);
+	$('.diagram_font_plate_number_a.data3 tspan').text(d_data3_unit_build);
+	$('.diagram_font_plate_number_b.data3 tspan').text(d_data3_unit_total);
+	$('.diagram_font_plate_number_a.data4 tspan').text(d_data4_unit_build);
+	$('.diagram_font_plate_number_b.data4 tspan').text(d_data4_unit_total);
+	$('.diagram_font_plate_number_a.data5 tspan').text(d_unit_build);
+	$('.diagram_font_plate_number_b.data5 tspan').text(d_unit_total);
+	
+	
+	
+	
+	//
 	// finance_analysis
 	//
 	

@@ -25,7 +25,7 @@
 			<div class="row">
 				<?php include 'module/portlet/portlet_mrt_info_station.html'; ?>
 				<?php include 'module/portlet/portlet_progress_v2.html'; ?>
-				<?php include 'module/portlet/portlet_project_type.html'; ?>
+				<?php include 'module/portlet/portlet_block_number_b1.html'; ?>
 				<?php include 'module/portlet/portlet_milestone.html'; ?>
 				<?php include 'module/portlet/portlet_gallery.html'; ?>
 				<?php include 'module/portlet/portlet_line_chart_1.html'; ?>
@@ -36,6 +36,7 @@
 		<div class="col-md-6">
 		
 			<div class="row">
+				<?php include 'module/portlet/portlet_diagram.html'; ?>
 				<?php include 'module/portlet/portlet_finance_analysis.html'; ?>
 				<?php include 'module/portlet/portlet_hsse.html'; ?>
 				<?php include 'module/portlet/portlet_line_chart_2.html'; ?>
